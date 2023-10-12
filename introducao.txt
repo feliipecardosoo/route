@@ -1,0 +1,8 @@
+Crie um projeto com express
+
+Adicione nodemon e coloque um script 
+chamado serve para rodar o projeto na porta 5000
+
+Crie 2 paginas com CSS
+Altere pelo menos background - color 
+Separe as rotas no recurso Router

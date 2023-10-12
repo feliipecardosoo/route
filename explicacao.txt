@@ -1,0 +1,15 @@
+serve:
+
+
+
+
+
+
+router:
+
+exportar express
+exportar router express.Router()
+exportar path
+entrar na pasta dos templates '../nome_da_pasta'
+
+exportar router module.exports = router
